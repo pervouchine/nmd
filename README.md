@@ -1,4 +1,4 @@
-# nmd_nar
+# nmd
 Autoregulation via AS-NMD
 
 # RBP autoregulation via NMD
