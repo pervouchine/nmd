@@ -14,12 +14,12 @@ visibility 3
 shortLabel shRNA-KD of RBPs
 longLabel shRNA-KD of RNA-binding proteins 
 
-track shRNA_KD_UPF1
+track shRNA_KD_NMD
 type bigBed 9+
-bigDataUrl upf1xrn1.bb
+bigDataUrl nmd.bb
 itemRgb on
 visibility 3
-shortLabel shRNA-KD of UPF1/XRN1
+shortLabel shRNA-KD of UPF1/XRN1 and SMG6/XRN1
 longLabel shRNA-KD of NMD components
 
 
