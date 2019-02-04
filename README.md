@@ -1,4 +1,4 @@
-# nmd_nar
+# nmd
 Autoregulation via AS-NMD
 
 # RBP autoregulation via NMD
@@ -7,11 +7,11 @@ This repository contains scripts and pipelines for "Integrative transcriptomic a
 ## Installation
 After git clone https://github.com/pervouchine/nmd_nar, enter the directory and run 'make all'. During the execution of make, it will download the processed data and produce all figures and tables
 Dependencies:
-# R packages: ggplot2, ggrepel, plyr, dplyr, ggsignif
-# bedtools v2.25.0
-# bedToBigBed
-# devtools
-# jdstorey/qvalue (install_github("jdstorey/qvalue"))
+### R packages: ggplot2, ggrepel, plyr, dplyr, ggsignif
+### bedtools v2.25.0
+### bedToBigBed
+### devtools
+### jdstorey/qvalue (install_github("jdstorey/qvalue"))
 
 ## Data structure
 There are three data repositories in this project
